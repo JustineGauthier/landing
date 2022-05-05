@@ -1,0 +1,18 @@
+.footer ul {
+  display: inline-flex;
+  font-size: 48px;
+  padding: 0px;
+  margin: -6px;
+  list-style: none;
+  letter-spacing: 32px;
+}
+
+.footer{
+  text-align: center;
+  padding: 52px;
+  background-color: #FFDDDE;
+}
+
+.footer a {
+  color: rgba(112, 92, 92, 0.8);
+}

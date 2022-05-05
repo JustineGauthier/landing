@@ -1,0 +1,28 @@
+.cards-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 48px;
+}
+
+.cards img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.cards {
+  width: 280px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+  background-color: white;
+  color: #5A4949;
+  padding-top: 40px;
+  }
+
+  .cards p {
+    color: rgba(112, 92, 92, 0.8);
+  }

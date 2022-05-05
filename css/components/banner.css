@@ -1,0 +1,22 @@
+.banner{
+  background-image: url(../../images/mur-brique-pastel_53876-88707.png);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  font-size: 32px;
+  color: #5A4949;
+  height: 400px;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+}
+
+.banner-container {
+  margin: auto 250px;
+}
+
+.banner-container h1 {
+  font-size: 48px;
+}
+
+.banner p {
+  color: rgba(112, 92, 92, 0.8);
+}
